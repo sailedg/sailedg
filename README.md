@@ -8,17 +8,6 @@ I started out studying computer science and kept learning on my own in frontend 
 
 `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `CSS3` · `HTML5` · `Node.js` · `Figma` · `Git`
 
-### Selected work
-
-**[rodasdev.com](https://rodasdev.com)** — My portfolio, designed and built from scratch. Bilingual, light and dark themes, scores 100 on accessibility and best practices. → [source](https://github.com/sailedg/portafolio)
-
-**[SIC Ingeniería & Consultoría](https://sicdc.com.co)** — Corporate website in Next.js, with SEO optimization and performance work.
-
-**[Fabian Berger](https://www.fabianberger.cl/)** — Full markup and performance optimization for a fast, responsive experience.
-
-**[Paulina Riquelme](https://www.paulinariquelme.cl)** — Responsive corporate website, markup and performance.
-
-*The last three are client projects, so the source is not public.*
 
 ### Get in touch
 
